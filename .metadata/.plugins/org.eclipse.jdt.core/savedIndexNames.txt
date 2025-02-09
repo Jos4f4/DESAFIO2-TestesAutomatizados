@@ -1,6 +1,6 @@
 INDEX VERSION 1.134+J:\Projetos\JavaSpringExpert\DESAFIO2-TestesAutomatizados\.metadata\.plugins\org.eclipse.jdt.core
 2838955234.index
-3679929857.index
+3510765551.index
 3674006626.index
 780705502.index
 2681020206.index
@@ -17,9 +17,9 @@ INDEX VERSION 1.134+J:\Projetos\JavaSpringExpert\DESAFIO2-TestesAutomatizados\.m
 516933936.index
 2873006007.index
 2085954696.index
-1817692222.index
 4145392597.index
 812949777.index
+1817692222.index
 3118844147.index
 2167084730.index
 105116160.index
@@ -29,8 +29,8 @@ INDEX VERSION 1.134+J:\Projetos\JavaSpringExpert\DESAFIO2-TestesAutomatizados\.m
 93602785.index
 2288323078.index
 3048810108.index
-3048193954.index
 866352474.index
+3048193954.index
 3803203096.index
 78412716.index
 17230615.index
@@ -38,10 +38,10 @@ INDEX VERSION 1.134+J:\Projetos\JavaSpringExpert\DESAFIO2-TestesAutomatizados\.m
 66741274.index
 2074534861.index
 3484246121.index
-3609900278.index
-1724009130.index
-4188454218.index
 3629749813.index
+3609900278.index
+4188454218.index
+1724009130.index
 3874603543.index
 3081298513.index
 75847405.index
@@ -88,6 +88,6 @@ INDEX VERSION 1.134+J:\Projetos\JavaSpringExpert\DESAFIO2-TestesAutomatizados\.m
 695557058.index
 2691781937.index
 3907954957.index
+3679929857.index
 1124550443.index
 177321574.index
-3510765551.index

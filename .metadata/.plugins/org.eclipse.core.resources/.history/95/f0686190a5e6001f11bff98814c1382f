@@ -1,0 +1,5 @@
+package com.devsuperior.demo.services.exceptions;
+
+public class ResourceNotFoundException {
+
+}
